@@ -18,9 +18,9 @@ A local Retrieval-Augmented Generator (RAG) agent using the Phi framework & Llam
 - Playground UI: Provides a web-based interface for querying the RAG agent.
 
 #### Libraries Used
--phi.agent: For creating the RAG Agent.
--phi.model.ollama: Integration with Ollama language models.
--phi.knowledge.pdf: PDF processing and knowledge base creation.
--phi.vectordb.qdrant: Qdrant as the vector database.
--phi.embedder.ollama: Ollama model for generating vector embeddings.
--phi.playground: Interactive user interface for querying the agent.
+- phi.agent: For creating the RAG Agent.
+- phi.model.ollama: Integration with Ollama language models.
+- phi.knowledge.pdf: PDF processing and knowledge base creation.
+- phi.vectordb.qdrant: Qdrant as the vector database.
+- phi.embedder.ollama: Ollama model for generating vector embeddings.
+- phi.playground: Interactive user interface for querying the agent.
